@@ -3239,8 +3239,9 @@ li .comment-submit.shrink {
 
 @media(max-width: 1125px) {
 .nav-menu{
-	  padding: 0px 0px 0px 132px;
-	  margin-top: -60px;
+	padding: 0px 0px 0px 0px;
+    margin-top: 0px;
+    font-size: 12px;
 }
 }
 
