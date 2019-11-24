@@ -3551,7 +3551,7 @@ body .layui-table-tips .layui-layer-content {
 }
 
 .layui-bg-blue .layui-nav-bar,.layui-bg-blue .layui-nav-itemed:after,.layui-bg-blue .layui-this:after {
-	background-color: #fb9704
+	background-color: #8BC34A
 }
 
 .layui-bg-blue .layui-nav-child dd.layui-this {
@@ -3731,7 +3731,7 @@ body .layui-table-tips .layui-layer-content {
 .layui-tab-brief>.layui-tab-more li.layui-this:after,.layui-tab-brief>.layui-tab-title .layui-this:after {
 	border: none;
 	border-radius: 0;
-	    border-bottom: 3px solid #fe9701;
+	    border-bottom: 3px solid #8BC34A;
 
 }
 
