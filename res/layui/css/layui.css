@@ -2223,11 +2223,12 @@ a cite {
 }
 
 .layui-form-checkbox[lay-skin=primary] span {
-	float: right;
-	padding-right: 15px;
-	line-height: 18px;
-	background: 0 0;
-	color: #666
+    float: right;
+    padding-right: 15px;
+    line-height: 18px;
+    background: 0 0;
+    color: #FFC107;
+    font-size: 14px;
 }
 
 .layui-form-checkbox[lay-skin=primary] i {
