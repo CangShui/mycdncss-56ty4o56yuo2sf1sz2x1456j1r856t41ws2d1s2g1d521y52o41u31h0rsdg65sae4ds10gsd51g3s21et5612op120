@@ -1632,7 +1632,7 @@ a cite {
     height: 5px;
     border-radius: 2px 2px 0 0;
     font-size: 18px;
-    background-image: linear-gradient(90deg, #ffd800 0%, #ff512f 100%, #fff);
+    background-image: linear-gradient(90deg, #4CAF50 0%, #E91E63 100%, #fff);
     animation: glow-animation 2s infinite linear;
 }
 
@@ -1699,7 +1699,7 @@ a cite {
 }
 
 .layui-badge-rim,.layui-colla-content,.layui-colla-item,.layui-collapse,.layui-elem-field,.layui-form-pane .layui-form-item[pane],.layui-form-pane .layui-form-label,.layui-input,.layui-layedit,.layui-layedit-tool,.layui-quote-nm,.layui-select,.layui-tab-bar,.layui-tab-card,.layui-tab-title,.layui-tab-title .layui-this:after,.layui-textarea {
-	border-color: #673AB7;
+	border-color: #ffffff2e;
     border-width: 6px;
     color: #fe9901;
 }
@@ -2396,7 +2396,8 @@ a cite {
 }
 
 .layui-form-pane .layui-input {
-	border-radius: 0 2px 2px 0
+	border-radius: 0 2px 2px 0;
+	border-color: #3F51B5;
 }
 
 .layui-form-pane .layui-form-text .layui-form-label {
