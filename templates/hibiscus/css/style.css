@@ -1,9 +1,64 @@
+
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_1531385_s4y7hddbqq.eot?t=1574766094914'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_1531385_s4y7hddbqq.eot?t=1574766094914#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAREAAsAAAAACOwAAAP1AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqEbIQQATYCJAMUCwwABCAFhG0HaBu8BxFVnPHIPhLjGMr/bYmlDPESRJUze1YrRycdUwCI5RDRC5AMAYBX8kt53/3ygCU8H2EO5Vn0NF9I4VO6NH/k5/SUmpATcv9zuLQpPj9QLmNO2puKegFGE6MsG3sRdUdnB3pifAri2XSizs0QwCaTIkidek3aYKExewkgQwb274mVkaMbogULwVMxUSPLMLHUfHUXWBp8v/yglFigMA3MgS361e1Djc/yub3hhly6eAgY02kBfhoYQBFAg4yq1A/BiFxFMLDV5poagI2FQk1Vr8Dnsp/bh0KQsA8ktK1/eCAoDDSIB5MfTrE13Bo+i8MjEBSAFAVBWUgxIGgP5hvDN73PbcABToHETvw4UChMVLwTnhqRUxwJLzrYK35/22CwvdcrgUA7n6+NKyPBWRQf4A229/sn+z628X9qG/zSPvC5azi2hEuE4CdOu+pt453E9lXbONhEdPjr7frud88uKFStxeEM1/fQtyBQ6LG39cGgs7Bi+4MLz7kFqlSVHkcfugX3L3zifWzL6MevOlBoU4Hd+xPW+eosuJ5v11X7eiDVezD/gcx1+xLXBItvTNoiba0DV6cc9md3Aek2dWo36Sqev+oGqK4hpyvHUbSxdG2Ze9ox1fZ959GvO3OLNLy34K6c5t00sg33mc7O1s8saXa2y04WqzuJbTW2UYMeb2vsXLfu7vnz4/KMA+euXOXOGm970GuhZ9rYFFuidCnWS2JYvvQ67eqkNbXtByatm3jQvyBfsVVHDseULFUqZv48OtfZ9rvtn//tXra/V0RGs2Rlm88sfhZYyWOrb1j3zhPo3n9fRErDnG7OLoVSh+Qc0ShnWOS+/s0//3u37rXVqPLKLXra/L39FDbFjzSnbZlZ2Wr04kSGrhvbjSqIv3LjpC9X96gqfy1HA/DcyB8ZpIRcjeHCdyugM+NPwOiYpTWWqTC1ku7QFaNJ5bePr9QCG/jqzbG8nkaY0NkBgpVh8KDIQQYYWORBamwRMHEoAx4sqoNNYQPX6Q5xMH1EhwGF+CYgRPMDikgugEE0v0iN/QOTRP7BQ7T0waadLBZ0yCfRPo5CJWhBf0I01DhbJbMw+oa+rRSnWQHuBTlHK+yKlch7r9ggTzEkv/m9iAPHVMOFbIdVRZCYCjSyDiLpsCner+pNa0N1Z0ZtGEQhIBZA8wkQMRANzssvzApffwPxtFQouCGjSv4CwmRi7cCONdsOyCu/6ZRxK9dk3vDsEQQH4GCIGuBCtEhluQggVbcrQAzCmjDAkTiwoblcV/56eWH9GlcANmZrU5QYosUUD9bFD3oni8uvoBofWhPIpyTRcWUofc6fJbCOtcoBq/Tj15GSrNMBAAAA') format('woff2'),
+  url('//at.alicdn.com/t/font_1531385_s4y7hddbqq.woff?t=1574766094914') format('woff'),
+  url('//at.alicdn.com/t/font_1531385_s4y7hddbqq.ttf?t=1574766094914') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_1531385_s4y7hddbqq.svg?t=1574766094914#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.{
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.:before {
+  content: "\e601";
+}
+
+.:before {
+  content: "\e628";
+}
+
+.!:before {
+  content: "\e635";
+}
+
+.!:before {
+  content: "\e657";
+}
+
+
+
+
+
+
+
+
+
+
 html,body{overflow-x: hidden;}
 html body{margin-top: 61px;}
 html{background-color: #F2F2F2;}
 i{font-style: normal;}
 .ovfHiden{overflow: hidden;height: 100%;}
-/* 图标 */
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @font-face {font-family: "layui-icon-fly";
   src: url('iconfont.eot?t=1512007250695'); /* IE9*/
@@ -65,7 +120,7 @@ textarea.readonly{
 
 
 
-.iconfont {
+.{
   font-family:"layui-icon-fly" !important;
   font-size:16px;
   font-style:normal;
@@ -139,7 +194,7 @@ pre{padding: 10px 15px; margin: 10px 0; font-size: 12px; border-left: 6px solid 
 
 .layui-container{padding: 0;}
 .fly-main{width: 1079px; min-height: 600px; margin: 0 auto 15px;}
-.layui-badge{height: 20px; line-height: 20px; border-radius: 2px;}
+.layui-badge{height: 28px; line-height: 28px; border-radius: 2px;}
 
 .fly-link{color: #01AAED;}
 .fly-link:hover{color: #5FB878;}
@@ -178,7 +233,17 @@ pre{padding: 10px 15px; margin: 10px 0; font-size: 12px; border-left: 6px solid 
 .icon-pinglun1{position: relative; top: 2px;}
 
 /* 头部 */
-.fly-header{position: fixed; left: 0; top: 0; z-index: 10000; width: 100%; height: 60px; border-bottom: 1px solid #404553; border-right: 1px solid #404553; border-radius: 0;}
+.fly-header{
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 10000;
+    width: 100%;
+    height: 60px;
+    border-bottom: 3px solid #ee82be;
+    border-right: 1px solid #ee82be;
+    border-radius: 0;
+}
 .fly-logo{position: absolute;top: 11px;}
 .fly-logo img{height:40px;}
 .fly-nav{margin-left: 150px;}
@@ -622,34 +687,42 @@ body .fly-user-main{position: relative; min-height: 600px;}
 
 /*20181228 新商品详情页*/
 .trade-goodname {font-size: 22px;
-    color: #fe9901;
+    color: #ea2162;
     font-weight: 900;
 	
 }
 .good-trade p {font-size: 15px;line-height: 30px;}
 .trade-price {color: #F40;font-size: 26px;font-weight: 700;}
 .trade-goodinfo {   
-	background-color: #FFF2E8;
+    background-color: #ffffff;
     padding: 10px;
     margin-bottom: 5px;
     padding-left: 30px;
     margin-block-end: 20px;
     font-size: 20px;
-}
+    border-radius: 25px;
+}    
 .trade-youhui {
-    background-color: #ffe1df;
+    background-color: #fffcfc;
     padding: 8px;
     margin-bottom: 20px;
     padding-left: 30px;
     font-size: 16px;
     font-weight: 600;
-    color: #E91E63;
+    color: #e91e63;
+    border-radius: 50px;
 }
 /*20181231 新增首页列表*/
 .goodsdetail{}
 .goodsdetail-img{}
 .product-list-two-view>* {padding: 15px;}
-.goodsdetail-container {background: #fff0;border: 5px solid #ffffff5c;}
+.goodsdetail-container {
+border: 5px solid #ffffff9e;
+    background-color: #ff86ac;
+    border-bottom-right-radius: 45px;
+    border-top-left-radius: 45px;
+	
+}
 .goodsdetail-container img {width: 100%;}
 .goodsdetail-text {padding: 10px;}
 .goodsdetail-text .title {
@@ -661,8 +734,8 @@ body .fly-user-main{position: relative; min-height: 600px;}
     font-weight: 500;
     height: 45px;
 }
-.goodsdetail-text .price {color: #8BC34A;font-size: 20px;margin-right: 20px;font-family: arial; letter-spacing: 0.8px;font-weight: 700;display: inline-block;}
-.goodsdetail-text .kucun {font-size: 12px;float: right;color: #ffcb7f;}
+.goodsdetail-text .price {color: #E91E63;font-size: 20px;margin-right: 20px;font-family: arial; letter-spacing: 0.8px;font-weight: 700;display: inline-block;}
+.goodsdetail-text .kucun {font-size: 12px;float: right;color: #E91E63;}
 /*20190102 新增移动端*/
 .goodslist-mobile{line-height: 24px;}
 .goodsdetail-mobile{background: #fff;border-bottom: 1px solid #dbdbdb;padding: 10px;position: relative;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-align: center;-webkit-align-items: center;align-items: center;}
@@ -672,5 +745,5 @@ body .fly-user-main{position: relative; min-height: 600px;}
 .goodsdetail-mobile-text .title{line-height: 22px;margin-bottom: 3px;position: relative; display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;word-break: break-all;color: #4b566a;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;}
 .goodsdetail-mobile-text .price{color: red;font-size: 13px;}
 .goodsdetail-mobile-btn {}
-/*20190524 原价*/
+/*20190524 Original price*/
 .trade-price-ori{text-decoration: line-through;padding-left: 10px;}
