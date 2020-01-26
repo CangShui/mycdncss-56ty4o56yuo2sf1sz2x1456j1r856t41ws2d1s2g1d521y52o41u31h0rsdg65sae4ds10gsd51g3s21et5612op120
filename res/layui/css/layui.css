@@ -4500,8 +4500,7 @@ body .layui-util-face .layui-layer-content {
     background-position: top left;
     background-size: cover;
     background-color: #ee5586;
-    filter: brightness(70%);
-    background-size: 100% auto;
+    filter: brightness(70%)
 }
 
 .top-header {
