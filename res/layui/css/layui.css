@@ -4495,12 +4495,13 @@ body .layui-util-face .layui-layer-content {
 }
 
 .top-header.item7 {
-    background-image: url(https://yanxuan.nosdn.127.net/e0b421bac696762347184b40a2b47aab.png);
+    background-image: url(https://image.suning.cn/uimg/ZR/share_order/158002139678413234.jpg);
     background-repeat: no-repeat;
-    background-position: top center;
+    background-position: top left;
     background-size: cover;
     background-color: #ee5586;
     filter: brightness(70%);
+    background-size: 100% auto;
 }
 
 .top-header {
