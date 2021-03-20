@@ -37,7 +37,7 @@ legend{border:0;padding:0}
 textarea{overflow:auto}
 optgroup{font-weight:700}
 table{border-collapse:collapse;border-spacing:0}
-td,th{padding:0}
+td,th{padding: 4px;border: solid 2px #8e8e8e;}
 .w-icon-nav-menu{background-image: url('../images/nav.svg');width: 30px;height: 30px}
 *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 html{height:100%}
