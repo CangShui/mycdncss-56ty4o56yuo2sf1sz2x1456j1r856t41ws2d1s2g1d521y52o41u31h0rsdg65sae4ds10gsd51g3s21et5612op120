@@ -54,6 +54,7 @@
 .payment-form .products {
 	background-color: #f7fbff;
 	border-radius: 0px 0px 36px 36px;
+	padding: 20px;
 }
 
 .payment-form .products .item {
