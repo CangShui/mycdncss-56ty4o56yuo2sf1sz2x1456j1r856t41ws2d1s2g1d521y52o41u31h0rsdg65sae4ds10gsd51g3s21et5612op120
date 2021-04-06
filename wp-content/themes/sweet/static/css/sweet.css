@@ -345,7 +345,7 @@ textarea.w-input,textarea.w-select{height:auto}
 }
 .w-dyn-empty{padding:10px;background-color:#ddd}
 .w-condition-invisible{display:none!important}
-body{height:100%;background-color:#000;font-family:Lato,sans-serif;color:#333;font-size:15px;line-height:23px;font-weight:300}
+body{height:100%;background-color:#FFF;font-family:Lato,sans-serif;color:#333;font-size:15px;line-height:23px;font-weight:300}
 p{margin-bottom:20px}
 a{color:#8d4fdb;text-decoration:none}
 a:hover{color:#713faf;text-decoration:none}
