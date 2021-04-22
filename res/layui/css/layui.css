@@ -4495,7 +4495,7 @@ body .layui-util-face .layui-layer-content {
 }
 
 .top-header.item7 {
-    background-image: url(https://image.suning.cn/uimg/ZR/share_order/158002139678413234.jpg);
+    /**background-image: url();**/
     background-repeat: no-repeat;
     background-position: top left;
     background-size: cover;
@@ -4528,4 +4528,3 @@ body .layui-util-face .layui-layer-content {
     margin-top: 0px;
     text-align: center;
 }
-
