@@ -4537,4 +4537,6 @@ body .layui-util-face .layui-layer-content {
     border-radius: 45px !important;
     letter-spacing: 0.12em;
     margin-bottom: 15px;
+    box-shadow: 0 8px 8px 0 rgb(62 62 79 / 23%);
+    display: table;
 }
