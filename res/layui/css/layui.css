@@ -4528,3 +4528,13 @@ body .layui-util-face .layui-layer-content {
     margin-top: 0px;
     text-align: center;
 }
+
+.laobanfacai {
+    background-color: #f5e278d9 !important;
+    color: #ee5586 !important;
+    padding: 8px 20px !important;
+    font-size: 16px !important;
+    border-radius: 45px !important;
+    letter-spacing: 0.12em;
+    margin-bottom: 15px;
+}
