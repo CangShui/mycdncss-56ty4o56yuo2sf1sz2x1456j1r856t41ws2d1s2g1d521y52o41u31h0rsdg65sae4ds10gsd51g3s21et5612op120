@@ -43,10 +43,10 @@ $(function() {
 })
 
 //广告
-//var pCount=parseInt($('figure').length-1)
-//rand= Math.floor(Math.random()*(pCount+1));
-//$('figure:eq('+rand+')').attr('id','googlead')
-//$("#googlead").append('<iframe runat="server" src="https://cangshui.net/-otherweb/otherlink301/ad.html" width="300" height="242" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes"></iframe>');
+var pCount=parseInt($('figure').length-1)
+rand= Math.floor(Math.random()*(pCount+1));
+$('figure:eq('+rand+')').attr('id','googlead')
+$("#googlead").append('<iframe runat="server" src="https://cangshui.net/-otherweb/otherlink301/ad.html" width="300" height="242" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes"></iframe>');
 
 //控制台
 console.clear();
